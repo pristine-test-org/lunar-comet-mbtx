@@ -1,8 +1,5 @@
 # Lunar Comet: Monorepo · Netlify
 
-> **This is a template, not a repository.** Copy it out and prepare it before an eval (steps below).
-> Nothing here is deployed.
-
 A monorepo with three apps on **Netlify**, with preview links **public**. Static Vite +
 TypeScript, no framework. The page reads a live list from the shared Supabase test project.
 Row in the support matrix: impeccable-reviews#302.
@@ -13,9 +10,9 @@ Filled in at prep time.
 
 | App | Folder | Production | Preview gate |
 |---|---|---|---|
-| _app one_ | `apps/<app>` | _not deployed_ | no |
-| _app two_ | `apps/<app>` | _not deployed_ | no |
-| _app three_ | `apps/<app>` | _not deployed_ | no |
+| Spruce | `apps/spruce-qv7` | https://lunar-comet-mbtx-spruce-qv7.netlify.app | no |
+| Plum | `apps/plum-xmc` | https://lunar-comet-mbtx-plum-xmc.netlify.app | no |
+| Hazel | `apps/hazel-705` | https://lunar-comet-mbtx-hazel-705.netlify.app | no |
 
 ## Names
 
